@@ -1,5 +1,5 @@
 * {
-  padding: 0;
+  padding: 1rem;
   margin: 0;
 }
 
@@ -8,11 +8,6 @@ body {
     font-size: 1.2rem;
     background-color: #2d2d2d;
     color: #9FA4AE;
-  }
-
-  .container {
-    margin: 30% auto;
-    width: 80%;
   }
 
   h1 {

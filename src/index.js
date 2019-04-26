@@ -1,6 +1,5 @@
 
 document.getElementById("app").innerHTML = `
-<div class="container">
 <h1>Binary to Decimal Converter</h1>
 <form>
 <label for="binary">Binary number</label>
@@ -8,7 +7,6 @@ document.getElementById("app").innerHTML = `
 <button id="submit">SUBMIT</button>
 <p>Decimal output: <span id="decimal"></span></p>
 </form>
-</div>
 `;
 
 const sendValue = e => {
